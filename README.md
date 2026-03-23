@@ -6,6 +6,10 @@ The main purpose of this project is to demonstrate behavior-driven testing of a 
 
 All application code and all tests in this repository were written 100% by GitHub Copilot.
 
+GitHub Copilot was also used to pull in and configure all required technology modules for this project, including Playwright, BDD tooling, and the CI/CD pipeline.
+
+This entire README file was created and is maintained via GitHub Copilot.
+
 ## Prerequisites
 
 - Node.js 24+
