@@ -1,4 +1,4 @@
-# My First Project
+# Calculator
 
 A calculator web app built with Vite and tested end-to-end with Playwright.
 
