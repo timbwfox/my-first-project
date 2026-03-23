@@ -11,7 +11,7 @@ export default defineConfig({
   timeout: 30_000,
   use: {
     baseURL: "http://127.0.0.1:4173",
-    headless: false,
+    headless: !!process.env.CI,
   },
   webServer: {
     command: "npm run dev -- --host 127.0.0.1 --port 4173",
